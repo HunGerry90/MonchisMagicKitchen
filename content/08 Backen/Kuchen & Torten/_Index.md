@@ -1,0 +1,12 @@
+# 🎂 Kuchen & Torten
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS Rezept,
+  schwierigkeit AS Schwierigkeit,
+  zubereitungszeit AS "Zeit (Min)",
+  bewertung AS "⭐"
+FROM "Rezeptsammlung/08 Backen/Kuchen & Torten"
+WHERE file.name != "_Index"
+SORT bewertung DESC, file.name ASC
+```

@@ -1,0 +1,12 @@
+# 🍞 Brot & Brötchen
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS Rezept,
+  schwierigkeit AS Schwierigkeit,
+  zubereitungszeit AS "Zeit (Min)",
+  bewertung AS "⭐"
+FROM "Rezeptsammlung/08 Backen/Brot & Brötchen"
+WHERE file.name != "_Index"
+SORT bewertung DESC, file.name ASC
+```
