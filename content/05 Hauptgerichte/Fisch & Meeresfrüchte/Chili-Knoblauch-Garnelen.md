@@ -2,17 +2,8 @@
 titel: Chili-Knoblauch-Garnelen
 kategorie: Hauptgerichte
 küche: asiatisch
-tags:
-  - basis/garnelen
-  - basis/meeresfrüchte
-  - methode/braten
-  - methode/plancha
-  - unter-15min
-  - einfach
-  - scharf
-  - würzig
-  - glutenfrei
-  - laktosefrei
+tags: '["basis/garnelen", "basis/meeresfrüchte", "methode/braten",
+  "methode/plancha"]'
 portionen: 3
 zubereitungszeit: 10
 kochzeit: 5
@@ -21,7 +12,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/-r6_vT_tvnI
 version: "1.0"
 datum_erstellt: 2026-05-20

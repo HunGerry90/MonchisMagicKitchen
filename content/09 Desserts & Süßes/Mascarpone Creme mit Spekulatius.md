@@ -2,15 +2,7 @@
 titel: Mascarpone Creme mit Spekulatius
 kategorie: Desserts & Süßes
 küche: deutsch
-tags:
-  - basis/sahne
-  - basis/ei
-  - vegetarisch
-  - unter-30min
-  - einfach
-  - süß
-  - cremig
-  - saison/winter
+tags: '["basis/sahne","basis/ei","saison/winter"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 0
@@ -18,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/QRkWeBpEcVY
 version: "1.0"
 datum_erstellt: 2026-05-20

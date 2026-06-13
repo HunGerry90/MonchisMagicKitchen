@@ -2,22 +2,14 @@
 titel: Gefüllter Kürbis mit Hackfleisch
 kategorie: Hauptgerichte
 küche: deutsch
-tags:
-  - basis/hackfleisch
-  - basis/kürbis
-  - methode/backen
-  - unter-60min
-  - einfach
-  - herzhaft
-  - deftig
-  - saison/herbst
+tags: '["basis/hackfleisch", "basis/kürbis", "methode/backen", "saison/herbst"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 45
 schwierigkeit: einfach
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=TWsLwMeueZE
 version: "1.0"
 datum_erstellt: 2026-05-20

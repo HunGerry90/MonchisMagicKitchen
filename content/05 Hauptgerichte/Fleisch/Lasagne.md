@@ -2,22 +2,14 @@
 titel: Lasagne
 kategorie: Hauptgerichte
 küche: italienisch
-tags:
-  - basis/hackfleisch
-  - basis/rind
-  - basis/pasta
-  - methode/backen
-  - über-60min
-  - mittel
-  - herzhaft
-  - deftig
+tags: '["basis/hackfleisch", "basis/rind", "basis/pasta", "methode/backen"]'
 portionen: 6
 zubereitungszeit: 30
 kochzeit: 90
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=jzxI6cl25xw
 version: "1.0"
 datum_erstellt: 2026-05-20

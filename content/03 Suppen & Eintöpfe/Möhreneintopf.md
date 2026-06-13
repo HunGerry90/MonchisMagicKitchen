@@ -2,22 +2,14 @@
 titel: Möhreneintopf
 kategorie: Suppen & Eintöpfe
 küche: deutsch
-tags:
-  - basis/wurzelgemüse
-  - basis/kartoffeln
-  - basis/schwein
-  - methode/kochen
-  - unter-60min
-  - einfach
-  - herzhaft
-  - deftig
+tags: '["basis/wurzelgemüse", "basis/kartoffeln", "basis/schwein", "methode/kochen"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 40
 schwierigkeit: einfach
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=KBDbOCdev2w
 version: "1.0"
 datum_erstellt: 2026-05-20

@@ -2,15 +2,7 @@
 titel: Kichererbsencurry
 kategorie: Hauptgerichte
 küche: indisch
-tags:
-  - basis/hülsenfrüchte
-  - vegetarisch
-  - vegan
-  - methode/kochen
-  - unter-30min
-  - einfach
-  - scharf
-  - würzig
+tags: '["basis/hülsenfrüchte", "methode/kochen"]'
 portionen: 8
 zubereitungszeit: 10
 kochzeit: 20
@@ -21,7 +13,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.jamieoliver.com/recipes/vegetables-recipes/chickpea-curry/
 version: "1.0"
 datum_erstellt: 2026-05-20

@@ -2,17 +2,7 @@
 titel: Grillgemüse
 kategorie: Beilagen
 küche: deutsch
-tags:
-  - basis/gemüse
-  - basis/pilze
-  - vegetarisch
-  - vegan
-  - methode/grillen-direkt
-  - unter-30min
-  - einfach
-  - würzig
-  - leicht
-  - saison/sommer
+tags: '["basis/gemüse","basis/pilze","methode/grillen-direkt","saison/sommer"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 25
@@ -23,8 +13,8 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

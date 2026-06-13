@@ -2,14 +2,7 @@
 titel: Quarkbällchen mit Vanillesauce
 kategorie: Desserts & Süßes
 küche: deutsch
-tags:
-  - basis/mehl
-  - basis/ei
-  - vegetarisch
-  - methode/frittieren
-  - unter-30min
-  - einfach
-  - süß
+tags: '["basis/mehl","basis/ei","methode/frittieren"]'
 portionen: 8
 zubereitungszeit: 15
 kochzeit: 15
@@ -17,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/5P20LahgCfM
 version: "1.0"
 datum_erstellt: 2026-05-20

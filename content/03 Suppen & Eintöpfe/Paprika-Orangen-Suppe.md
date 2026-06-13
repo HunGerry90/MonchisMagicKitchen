@@ -2,15 +2,7 @@
 titel: Paprika-Orangen-Suppe
 kategorie: Suppen & Eintöpfe
 küche: sonstige
-tags:
-  - basis/paprika
-  - vegetarisch
-  - vegan
-  - methode/kochen
-  - unter-60min
-  - einfach
-  - süß
-  - leicht
+tags: '["basis/paprika", "methode/kochen"]'
 portionen: 6
 zubereitungszeit: 15
 kochzeit: 40
@@ -21,7 +13,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/nmJCAx03Ld0
 version: "1.0"
 datum_erstellt: 2026-05-20

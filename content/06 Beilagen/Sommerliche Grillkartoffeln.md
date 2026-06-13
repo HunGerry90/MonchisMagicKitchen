@@ -2,16 +2,7 @@
 titel: Sommerliche Grillkartoffeln
 kategorie: Beilagen
 küche: deutsch
-tags:
-  - basis/kartoffeln
-  - vegetarisch
-  - methode/backen
-  - methode/grillen-direkt
-  - unter-60min
-  - einfach
-  - knusprig
-  - leicht
-  - saison/sommer
+tags: '["basis/kartoffeln","methode/backen","methode/grillen-direkt","saison/sommer"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 40
@@ -20,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=VcpeUJRMnek
 version: "1.0"
 datum_erstellt: 2026-05-20

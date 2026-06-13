@@ -2,21 +2,14 @@
 titel: Hähnchenfajitas
 kategorie: Hauptgerichte
 küche: mexikanisch
-tags:
-  - basis/hähnchen
-  - basis/gemüse
-  - methode/braten
-  - unter-60min
-  - einfach
-  - würzig
-  - scharf
+tags: '["basis/hähnchen", "basis/gemüse", "methode/braten"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 20
 schwierigkeit: einfach
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.jamieoliver.com/recipes/chicken-recipes/chicken-fajitas/
 version: "1.0"
 datum_erstellt: 2026-05-20

@@ -2,14 +2,7 @@
 titel: Knusprige Bratkartoffeln mit Zwiebel und Speck
 kategorie: Beilagen
 küche: deutsch
-tags:
-  - basis/kartoffeln
-  - basis/speck-wurst
-  - methode/braten
-  - unter-30min
-  - einfach
-  - knusprig
-  - herzhaft
+tags: '["basis/kartoffeln","basis/speck-wurst","methode/braten"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 20
@@ -17,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/rZdSAzLsvnA
 version: "1.0"
 datum_erstellt: 2026-05-20

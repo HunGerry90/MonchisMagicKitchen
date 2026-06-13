@@ -2,14 +2,7 @@
 titel: Pesto-Kartoffeln mit Gemüse
 kategorie: Beilagen
 küche: italienisch
-tags:
-  - basis/kartoffeln
-  - basis/gemüse
-  - vegetarisch
-  - methode/dämpfen
-  - unter-30min
-  - einfach
-  - leicht
+tags: '["basis/kartoffeln","basis/gemüse","methode/dämpfen"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 20
@@ -17,8 +10,8 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

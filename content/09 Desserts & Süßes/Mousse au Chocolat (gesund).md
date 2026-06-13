@@ -2,14 +2,7 @@
 titel: Mousse au Chocolat (gesund)
 kategorie: Desserts & Süßes
 küche: französisch
-tags:
-  - basis/ei
-  - basis/joghurt
-  - vegetarisch
-  - unter-15min
-  - einfach
-  - high-protein
-  - zuckerfrei
+tags: '["basis/ei","basis/joghurt"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 0
@@ -19,8 +12,8 @@ ernährung:
   - glutenfrei
   - high-protein
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

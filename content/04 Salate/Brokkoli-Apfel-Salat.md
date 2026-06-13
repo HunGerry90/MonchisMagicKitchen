@@ -2,13 +2,7 @@
 titel: Brokkoli-Apfel-Salat
 kategorie: Salate
 küche: deutsch
-tags:
-  - basis/gemüse
-  - vegetarisch
-  - vegan
-  - unter-15min
-  - einfach
-  - leicht
+tags: '["basis/gemüse"]'
 portionen: 6
 zubereitungszeit: 15
 kochzeit: 0
@@ -17,8 +11,8 @@ ernährung:
   - vegan
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

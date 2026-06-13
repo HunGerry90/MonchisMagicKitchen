@@ -2,15 +2,7 @@
 titel: Glasierte Möhren
 kategorie: Beilagen
 küche: französisch
-tags:
-  - basis/wurzelgemüse
-  - vegetarisch
-  - vegan
-  - methode/kochen
-  - unter-15min
-  - einfach
-  - süß
-  - leicht
+tags: '["basis/wurzelgemüse","methode/kochen"]'
 portionen: 4
 zubereitungszeit: 5
 kochzeit: 10
@@ -20,7 +12,7 @@ ernährung:
   - vegan
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/L-LDAOWb2Ng
 version: "1.0"
 datum_erstellt: 2026-05-20

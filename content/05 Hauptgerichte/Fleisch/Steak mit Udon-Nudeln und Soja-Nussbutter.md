@@ -2,13 +2,7 @@
 titel: Steak mit Udon-Nudeln und Soja-Nussbutter
 kategorie: Hauptgerichte
 küche: asiatisch
-tags:
-  - basis/rind
-  - methode/braten
-  - unter-30min
-  - mittel
-  - herzhaft
-  - würzig
+tags: '["basis/rind", "methode/braten"]'
 portionen: 2
 zubereitungszeit: 10
 kochzeit: 15
@@ -16,7 +10,7 @@ schwierigkeit: mittel
 ernährung:
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=W6bLGTTzZGw
 version: "1.0"
 datum_erstellt: 2026-05-20

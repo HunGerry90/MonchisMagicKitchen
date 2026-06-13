@@ -2,16 +2,7 @@
 titel: Brokkoli mit Curry-Quarkhaube
 kategorie: Beilagen
 küche: deutsch
-tags:
-  - basis/gemüse
-  - basis/joghurt
-  - basis/ei
-  - vegetarisch
-  - methode/backen
-  - unter-60min
-  - einfach
-  - würzig
-  - leicht
+tags: '["basis/gemüse","basis/joghurt","basis/ei","methode/backen"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 35
@@ -20,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=PknDCrUpYAs
 version: "1.0"
 datum_erstellt: 2026-05-20

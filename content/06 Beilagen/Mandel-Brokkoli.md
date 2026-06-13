@@ -2,16 +2,7 @@
 titel: Mandel-Brokkoli
 kategorie: Beilagen
 küche: französisch
-tags:
-  - basis/gemüse
-  - basis/nüsse
-  - vegetarisch
-  - methode/kochen
-  - methode/braten
-  - unter-30min
-  - einfach
-  - knusprig
-  - leicht
+tags: '["basis/gemüse","basis/nüsse","methode/kochen","methode/braten"]'
 portionen: 3
 zubereitungszeit: 5
 kochzeit: 15
@@ -20,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/2mbyIUZHM8o
 version: "1.0"
 datum_erstellt: 2026-05-20

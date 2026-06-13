@@ -20,7 +20,7 @@ TABLE WITHOUT ID
   schwierigkeit AS Schwierigkeit,
   zubereitungszeit AS "Zeit (Min)",
   bewertung AS "⭐"
-FROM "Rezeptsammlung/08 Backen"
+FROM "08 Backen"
 WHERE file.name != "_Index"
 SORT bewertung DESC, file.name ASC
 ```

@@ -2,14 +2,7 @@
 titel: American Bowl mit Hähnchen und Avocado
 kategorie: Hauptgerichte
 küche: amerikanisch
-tags:
-  - basis/hähnchen
-  - basis/gemüse
-  - methode/braten
-  - unter-30min
-  - einfach
-  - leicht
-  - high-protein
+tags: '["basis/hähnchen", "methode/grillen-direkt"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 15
@@ -18,8 +11,8 @@ ernährung:
   - glutenfrei
   - high-protein
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

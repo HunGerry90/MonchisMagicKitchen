@@ -2,15 +2,11 @@
 titel: Aromatisiertes Kartoffelgratin mit Zitronenabrieb
 kategorie: Beilagen
 küche: französisch
-tags:
+tags: |
+  
   - basis/kartoffeln
   - basis/sahne
-  - vegetarisch
   - methode/backen
-  - unter-60min
-  - mittel
-  - cremig
-  - herzhaft
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 60
@@ -19,7 +15,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=-VjbutD-tJc
 version: "1.0"
 datum_erstellt: 2026-05-20

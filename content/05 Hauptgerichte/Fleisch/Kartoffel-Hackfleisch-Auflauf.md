@@ -2,21 +2,15 @@
 titel: Kartoffel-Hackfleisch-Auflauf
 kategorie: Hauptgerichte
 küche: deutsch
-tags:
-  - basis/hackfleisch
-  - basis/kartoffeln
-  - methode/backen
-  - auflauf
-  - herzhaft
-  - deftig
+tags: '["basis/hackfleisch", "basis/kartoffeln"]'
 portionen: 6
 zubereitungszeit: 30
 kochzeit: 45
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

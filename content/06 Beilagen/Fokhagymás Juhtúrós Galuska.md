@@ -2,16 +2,7 @@
 titel: Fokhagymás Juhtúrós Galuska
 kategorie: Beilagen
 küche: ungarisch
-tags:
-  - basis/mehl
-  - basis/käse
-  - basis/ei
-  - vegetarisch
-  - methode/kochen
-  - unter-30min
-  - einfach
-  - herzhaft
-  - würzig
+tags: '["basis/mehl","basis/käse","basis/ei","methode/kochen"]'
 portionen: 6
 zubereitungszeit: 15
 kochzeit: 10
@@ -19,8 +10,8 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

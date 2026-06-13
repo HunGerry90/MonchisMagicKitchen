@@ -2,15 +2,7 @@
 titel: Gefüllte Ofenkartoffeln
 kategorie: Beilagen
 küche: deutsch
-tags:
-  - basis/kartoffeln
-  - basis/joghurt
-  - vegetarisch
-  - methode/backen
-  - methode/dämpfen
-  - unter-60min
-  - einfach
-  - herzhaft
+tags: '["basis/kartoffeln","basis/joghurt","methode/backen","methode/dämpfen"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 40
@@ -19,8 +11,8 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

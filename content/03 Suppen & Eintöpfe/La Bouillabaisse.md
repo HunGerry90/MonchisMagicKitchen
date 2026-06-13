@@ -2,14 +2,7 @@
 titel: La Bouillabaisse (Französische Fischsuppe)
 kategorie: Suppen & Eintöpfe
 küche: französisch
-tags:
-  - basis/fisch
-  - basis/meeresfrüchte
-  - methode/kochen
-  - über-60min
-  - aufwendig
-  - herzhaft
-  - würzig
+tags: '["basis/fisch", "basis/meeresfrüchte", "methode/kochen"]'
 portionen: 4
 zubereitungszeit: 30
 kochzeit: 45
@@ -18,7 +11,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=KL-6Yujm95M
 version: "1.0"
 datum_erstellt: 2026-05-20

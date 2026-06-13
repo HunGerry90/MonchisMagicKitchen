@@ -6,7 +6,7 @@ TABLE WITHOUT ID
   schwierigkeit AS Schwierigkeit,
   zubereitungszeit AS "Zeit (Min)",
   bewertung AS "⭐"
-FROM "Rezeptsammlung/08 Backen/Brot & Brötchen"
+FROM "08 Backen/Brot & Brötchen"
 WHERE file.name != "_Index"
 SORT bewertung DESC, file.name ASC
 ```

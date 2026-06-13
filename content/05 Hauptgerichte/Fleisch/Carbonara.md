@@ -2,22 +2,14 @@
 titel: Carbonara
 kategorie: Hauptgerichte
 küche: italienisch
-tags:
-  - basis/schwein
-  - basis/ei
-  - basis/käse
-  - methode/kochen
-  - unter-30min
-  - mittel
-  - cremig
-  - herzhaft
+tags: '["basis/schwein", "basis/ei", "basis/käse", "methode/kochen"]'
 portionen: 2
 zubereitungszeit: 5
 kochzeit: 20
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/TfqpuVJ9zAA
 version: "1.0"
 datum_erstellt: 2026-05-20

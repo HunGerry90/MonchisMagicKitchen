@@ -2,14 +2,7 @@
 titel: Limettentart
 kategorie: Backen
 küche: französisch
-tags:
-  - basis/mehl
-  - basis/joghurt
-  - vegetarisch
-  - methode/backen
-  - über-60min
-  - mittel
-  - süß
+tags: '["basis/mehl","basis/joghurt","methode/backen"]'
 portionen: 10
 zubereitungszeit: 40
 kochzeit: 25
@@ -18,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=ll9gzOEIILQ
 version: "1.0"
 datum_erstellt: 2026-05-20

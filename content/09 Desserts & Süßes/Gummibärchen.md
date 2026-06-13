@@ -2,14 +2,7 @@
 titel: Gummibärchen
 kategorie: Desserts & Süßes
 küche: deutsch
-tags:
-  - basis/obst
-  - basis/beeren
-  - vegetarisch
-  - vegan
-  - unter-15min
-  - einfach
-  - süß
+tags: '["basis/obst","basis/beeren"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 5
@@ -20,8 +13,8 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

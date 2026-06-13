@@ -2,23 +2,15 @@
 titel: Nudelauflauf
 kategorie: Hauptgerichte
 küche: deutsch
-tags:
-  - basis/pasta
-  - basis/hackfleisch
-  - basis/käse
-  - methode/backen
-  - unter-60min
-  - einfach
-  - herzhaft
-  - deftig
+tags: '["basis/pasta", "basis/hackfleisch", "basis/käse", "methode/backen"]'
 portionen: 6
 zubereitungszeit: 20
 kochzeit: 40
 schwierigkeit: einfach
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

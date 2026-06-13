@@ -2,14 +2,7 @@
 titel: Smokey Hähnchenfilet auf knackigem Salat und Cannellini-Bohnen
 kategorie: Hauptgerichte
 küche: amerikanisch
-tags:
-  - basis/hähnchen
-  - basis/hülsenfrüchte
-  - methode/braten
-  - unter-30min
-  - einfach
-  - leicht
-  - high-protein
+tags: '["basis/hähnchen", "basis/hülsenfrüchte", "methode/braten"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 15
@@ -18,8 +11,8 @@ ernährung:
   - glutenfrei
   - high-protein
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

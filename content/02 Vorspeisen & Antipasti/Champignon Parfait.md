@@ -2,15 +2,7 @@
 titel: Champignon Parfait
 kategorie: Vorspeisen & Antipasti
 küche: französisch
-tags:
-  - basis/pilze
-  - basis/ei
-  - methode/backen
-  - über-60min
-  - aufwendig
-  - cremig
-  - herzhaft
-  - würzig
+tags: '["basis/pilze", "basis/ei", "methode/backen"]'
 portionen: 6
 zubereitungszeit: 30
 kochzeit: 90
@@ -18,7 +10,7 @@ schwierigkeit: aufwendig
 ernährung:
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=JnIjpwBNFlM
 version: "1.0"
 datum_erstellt: 2026-05-20

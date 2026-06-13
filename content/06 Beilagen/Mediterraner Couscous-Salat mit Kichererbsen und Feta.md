@@ -2,15 +2,7 @@
 titel: Mediterraner Couscous-Salat mit Kichererbsen und Feta
 kategorie: Beilagen
 küche: griechisch
-tags:
-  - basis/couscous
-  - basis/hülsenfrüchte
-  - basis/käse
-  - vegetarisch
-  - unter-30min
-  - einfach
-  - leicht
-  - saison/sommer
+tags: '["basis/couscous","basis/hülsenfrüchte","basis/käse","saison/sommer"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 0
@@ -18,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/BZlH57rBuSQ
 version: "1.0"
 datum_erstellt: 2026-05-20

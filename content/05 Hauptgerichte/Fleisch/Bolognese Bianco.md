@@ -2,21 +2,14 @@
 titel: Bolognese Bianco
 kategorie: Hauptgerichte
 küche: italienisch
-tags:
-  - basis/hackfleisch
-  - basis/speck-wurst
-  - methode/kochen
-  - über-60min
-  - mittel
-  - cremig
-  - herzhaft
+tags: '["basis/hackfleisch", "basis/speck-wurst", "methode/kochen"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 120
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=NMKrNDN4nK8
 version: "1.0"
 datum_erstellt: 2026-05-20

@@ -2,22 +2,14 @@
 titel: Easy Kartoffelsuppe
 kategorie: Suppen & Eintöpfe
 küche: deutsch
-tags:
-  - basis/kartoffeln
-  - basis/speck-wurst
-  - methode/kochen
-  - unter-60min
-  - einfach
-  - cremig
-  - herzhaft
-  - deftig
+tags: '["basis/kartoffeln", "basis/speck-wurst", "methode/kochen"]'
 portionen: 6
 zubereitungszeit: 20
 kochzeit: 35
 schwierigkeit: einfach
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=_skKeqBVbis
 version: "1.0"
 datum_erstellt: 2026-05-20

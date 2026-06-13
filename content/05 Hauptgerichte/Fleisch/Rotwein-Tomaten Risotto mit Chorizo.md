@@ -2,23 +2,14 @@
 titel: Rotwein-Tomaten Risotto mit Chorizo
 kategorie: Hauptgerichte
 küche: italienisch
-tags:
-  - basis/reis
-  - basis/tomaten
-  - basis/speck-wurst
-  - methode/kochen
-  - unter-60min
-  - mittel
-  - cremig
-  - herzhaft
-  - würzig
+tags: '["basis/reis", "basis/tomaten", "basis/speck-wurst", "methode/kochen"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 30
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.jamieoliver.com/recipes/pork-recipes/tomato-red-wine-chorizo-risotto/
 version: "1.0"
 datum_erstellt: 2026-05-20

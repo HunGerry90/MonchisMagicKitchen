@@ -26,12 +26,11 @@ Willkommen in der persönlichen Rezeptsammlung. Hier findest du alles rund ums K
 | 🥗 | [[04 Salate/_Index\|Salate]] |
 | 🍖 | [[05 Hauptgerichte/_Index\|Hauptgerichte]] |
 | 🥦 | [[06 Beilagen/_Index\|Beilagen]] |
-| 🧀 | [[07 Snacks, Dips & Fingerfood/_Index\|Snacks, Dips & Fingerfood]] |
+| 🧀 | [[07 Snacks & Fingerfood/_Index\|Snacks & Fingerfood]] |
 | 🥐 | [[08 Backen/_Index\|Backen]] |
 | 🍰 | [[09 Desserts & Süßes/_Index\|Desserts & Süßes]] |
-| 🫙 | [[10 Eingemachtes & Vorräte/_Index\|Eingemachtes & Vorräte]] |
+| 🫕 | [[10 Grundrezepte/_Index\|Grundrezepte]] |
 | 🥤 | [[11 Getränke/_Index\|Getränke]] |
-| 🫕 | [[12 Grundrezepte & Saucen/_Index\|Grundrezepte & Saucen]] |
 
 ---
 
@@ -41,7 +40,7 @@ Willkommen in der persönlichen Rezeptsammlung. Hier findest du alles rund ums K
 **Nach Aufwand:** `#einfach` · `#mittel` · `#aufwendig`
 **Nach Zeit:** `#unter-15min` · `#unter-30min` · `#unter-60min`
 **Nach Methode:** `#methode/grillen-direkt` · `#methode/low-and-slow` · `#methode/dutch-oven` · …
-**Nach Zutat:** `#basis/rind` · `#basis/hähnchen` · `#basis/pasta` · …
+**Nach Zutat:** `#basis/rind` · `#basis/hähnchen` · `#basis/pasta` · `#basis/gewürze` · …
 **Status:** `#favorit` · `#bewährt` · `#ausprobieren`
 
 ---

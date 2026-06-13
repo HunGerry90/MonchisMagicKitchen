@@ -2,15 +2,7 @@
 titel: Karottencreme / Püree
 kategorie: Beilagen
 küche: französisch
-tags:
-  - basis/wurzelgemüse
-  - vegetarisch
-  - vegan
-  - methode/kochen
-  - unter-60min
-  - mittel
-  - süß
-  - cremig
+tags: '["basis/wurzelgemüse","methode/kochen"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 40
@@ -20,7 +12,7 @@ ernährung:
   - vegan
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/qal3bbhiG88
 version: "1.0"
 datum_erstellt: 2026-05-20

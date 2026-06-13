@@ -2,15 +2,7 @@
 titel: Crème Brûlée "Cheesecake Style"
 kategorie: Desserts & Süßes
 küche: französisch
-tags:
-  - basis/ei
-  - basis/sahne
-  - vegetarisch
-  - methode/backen
-  - unter-60min
-  - mittel
-  - cremig
-  - süß
+tags: '["basis/ei","basis/sahne","methode/backen"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 30
@@ -19,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/gKH74sDaH3g
 version: "1.0"
 datum_erstellt: 2026-05-20

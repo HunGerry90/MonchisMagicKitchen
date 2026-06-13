@@ -2,14 +2,7 @@
 titel: Pizzateig
 kategorie: Backen
 küche: italienisch
-tags:
-  - basis/mehl
-  - vegetarisch
-  - vegan
-  - methode/backen
-  - über-60min
-  - aufwendig
-  - herzhaft
+tags: '["basis/mehl","methode/backen"]'
 portionen: 6
 zubereitungszeit: 30
 kochzeit: 10
@@ -19,7 +12,7 @@ ernährung:
   - vegan
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=mVJkdqTeSQ4
 version: "1.0"
 datum_erstellt: 2026-05-20

@@ -2,22 +2,15 @@
 titel: Chop Suey
 kategorie: Hauptgerichte
 küche: chinesisch
-tags:
-  - basis/gemüse
-  - methode/wok
-  - methode/braten
-  - unter-30min
-  - einfach
-  - würzig
-  - scharf
+tags: '["basis/gemüse", "methode/wok", "methode/braten"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 15
 schwierigkeit: einfach
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

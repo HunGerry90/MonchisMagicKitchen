@@ -2,15 +2,7 @@
 titel: Überbackener Blumenkohl mit Béchamel-Käse-Sauce
 kategorie: Beilagen
 küche: deutsch
-tags:
-  - basis/gemüse
-  - basis/käse
-  - vegetarisch
-  - methode/backen
-  - unter-60min
-  - einfach
-  - cremig
-  - herzhaft
+tags: '["basis/gemüse","basis/käse","methode/backen"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 40
@@ -18,8 +10,8 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

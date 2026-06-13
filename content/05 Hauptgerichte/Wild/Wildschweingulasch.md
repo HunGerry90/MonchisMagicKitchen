@@ -2,23 +2,15 @@
 titel: Wildschweingulasch
 kategorie: Hauptgerichte
 küche: ungarisch
-tags:
-  - basis/wild
-  - basis/speck-wurst
-  - methode/kochen
-  - über-60min
-  - mittel
-  - herzhaft
-  - deftig
-  - scharf
+tags: '["basis/wild","basis/speck-wurst","methode/kochen"]'
 portionen: 8
 zubereitungszeit: 20
 kochzeit: 120
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

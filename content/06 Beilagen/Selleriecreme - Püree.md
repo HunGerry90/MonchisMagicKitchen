@@ -2,14 +2,7 @@
 titel: Selleriecreme / Püree
 kategorie: Beilagen
 küche: französisch
-tags:
-  - basis/gemüse
-  - vegetarisch
-  - methode/kochen
-  - unter-60min
-  - mittel
-  - cremig
-  - leicht
+tags: '["basis/gemüse","methode/kochen"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 30
@@ -18,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/qal3bbhiG88
 version: "1.0"
 datum_erstellt: 2026-05-20

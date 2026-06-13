@@ -2,23 +2,15 @@
 titel: Orientalisches Rindfleisch mit Couscous & Joghurt-Minzdip
 kategorie: Hauptgerichte
 küche: türkisch
-tags:
-  - basis/rind
-  - basis/hackfleisch
-  - basis/couscous
-  - basis/hülsenfrüchte
-  - methode/braten
-  - unter-60min
-  - einfach
-  - würzig
-  - herzhaft
+tags: '["basis/rind", "basis/hackfleisch", "basis/couscous",
+  "basis/hülsenfrüchte", "methode/braten"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 25
 schwierigkeit: einfach
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/bAFl0H6IGVA
 version: "1.0"
 datum_erstellt: 2026-05-20

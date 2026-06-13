@@ -2,23 +2,15 @@
 titel: Pasta Primavera
 kategorie: Hauptgerichte
 küche: italienisch
-tags:
-  - basis/pasta
-  - basis/fisch
-  - basis/käse
-  - basis/tomaten
-  - methode/kochen
-  - unter-30min
-  - einfach
-  - leicht
-  - cremig
+tags: '["basis/pasta", "basis/fisch", "basis/käse", "basis/tomaten",
+  "methode/kochen"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 15
 schwierigkeit: einfach
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=KWMpfp4fPSk
 version: "1.0"
 datum_erstellt: 2026-05-20

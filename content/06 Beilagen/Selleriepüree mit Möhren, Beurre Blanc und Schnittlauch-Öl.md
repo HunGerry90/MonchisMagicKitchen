@@ -2,13 +2,7 @@
 titel: Selleriepüree mit Möhren, Beurre Blanc und Schnittlauch-Öl
 kategorie: Beilagen
 küche: französisch
-tags:
-  - basis/wurzelgemüse
-  - vegetarisch
-  - methode/kochen
-  - mittel
-  - cremig
-  - leicht
+tags: '["basis/wurzelgemüse","methode/kochen"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 40
@@ -17,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=QcQJfqf55l0
 version: "1.0"
 datum_erstellt: 2026-05-20

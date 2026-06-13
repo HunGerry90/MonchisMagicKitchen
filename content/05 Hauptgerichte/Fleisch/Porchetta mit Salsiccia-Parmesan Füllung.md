@@ -2,22 +2,14 @@
 titel: Porchetta mit Salsiccia-Parmesan Füllung
 kategorie: Hauptgerichte
 küche: italienisch
-tags:
-  - basis/schwein
-  - methode/indirektes-grillen
-  - methode/backen
-  - über-60min
-  - aufwendig
-  - herzhaft
-  - deftig
-  - würzig
+tags: '["basis/schwein", "methode/grillen-direkt", "methode/backen"]'
 portionen: 8
 zubereitungszeit: 30
 kochzeit: 120
 schwierigkeit: aufwendig
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/YTGX0XWu4BM
 version: "1.0"
 datum_erstellt: 2026-05-20

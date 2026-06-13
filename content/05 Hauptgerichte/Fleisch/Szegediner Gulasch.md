@@ -2,22 +2,14 @@
 titel: Szegediner Gulasch
 kategorie: Hauptgerichte
 küche: ungarisch
-tags:
-  - basis/schwein
-  - basis/rind
-  - methode/kochen
-  - über-60min
-  - mittel
-  - herzhaft
-  - deftig
-  - scharf
+tags: '["basis/schwein", "basis/rind", "methode/kochen"]'
 portionen: 6
 zubereitungszeit: 25
 kochzeit: 90
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=243S0ZOczr8
 version: "1.0"
 datum_erstellt: 2026-05-20

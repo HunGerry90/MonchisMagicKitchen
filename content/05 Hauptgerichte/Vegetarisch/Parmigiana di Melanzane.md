@@ -2,16 +2,7 @@
 titel: Parmigiana di Melanzane
 kategorie: Hauptgerichte
 küche: italienisch
-tags:
-  - basis/gemüse
-  - basis/käse
-  - basis/tomaten
-  - vegetarisch
-  - methode/backen
-  - über-60min
-  - mittel
-  - cremig
-  - herzhaft
+tags: '["basis/gemüse", "basis/käse", "basis/tomaten", "methode/backen"]'
 portionen: 7
 zubereitungszeit: 30
 kochzeit: 80
@@ -19,7 +10,7 @@ schwierigkeit: mittel
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/gMGoRksrWy4
 version: "1.0"
 datum_erstellt: 2026-05-20

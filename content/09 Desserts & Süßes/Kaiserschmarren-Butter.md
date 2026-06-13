@@ -2,13 +2,7 @@
 titel: Kaiserschmarren-Butter
 kategorie: Desserts & Süßes
 küche: österreichisch
-tags:
-  - basis/nüsse
-  - vegetarisch
-  - methode/braten
-  - unter-30min
-  - einfach
-  - süß
+tags: '["basis/nüsse","methode/braten"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 15
@@ -16,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtube.com/shorts/kejdTV0xe5k
 version: "1.0"
 datum_erstellt: 2026-05-20

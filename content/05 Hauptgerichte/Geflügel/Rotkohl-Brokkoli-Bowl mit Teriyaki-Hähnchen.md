@@ -2,17 +2,8 @@
 titel: Rotkohl-Brokkoli-Bowl mit Teriyaki-Hähnchen
 kategorie: Hauptgerichte
 küche: asiatisch
-tags:
-  - basis/hähnchen
-  - basis/kohl
-  - basis/gemüse
-  - basis/reis
-  - methode/braten
-  - methode/dämpfen
-  - unter-30min
-  - einfach
-  - leicht
-  - würzig
+tags: '["basis/hähnchen", "basis/kohl", "basis/gemüse", "basis/reis",
+  "methode/braten", "methode/dämpfen"]'
 portionen: 2
 zubereitungszeit: 10
 kochzeit: 20
@@ -20,8 +11,8 @@ schwierigkeit: einfach
 ernährung:
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

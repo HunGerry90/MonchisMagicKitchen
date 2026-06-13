@@ -2,14 +2,7 @@
 titel: Coleslaw
 kategorie: Salate
 küche: amerikanisch
-tags:
-  - basis/kohl
-  - vegetarisch
-  - unter-15min
-  - einfach
-  - cremig
-  - leicht
-  - saison/sommer
+tags: '["basis/kohl", "saison/sommer"]'
 portionen: 8
 zubereitungszeit: 15
 kochzeit: 0
@@ -18,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/vV_MSkKhsr4
 version: "1.0"
 datum_erstellt: 2026-05-20

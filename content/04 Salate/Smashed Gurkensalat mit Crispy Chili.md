@@ -2,14 +2,7 @@
 titel: Smashed Gurkensalat mit Crispy Chili
 kategorie: Salate
 küche: asiatisch
-tags:
-  - basis/gemüse
-  - vegetarisch
-  - vegan
-  - unter-15min
-  - einfach
-  - scharf
-  - leicht
+tags: '["basis/gemüse"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 0
@@ -20,7 +13,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtube.com/shorts/xW5bhcijtBY
 version: "1.0"
 datum_erstellt: 2026-05-20

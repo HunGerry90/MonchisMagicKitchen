@@ -2,21 +2,14 @@
 titel: Rinderrouladen
 kategorie: Hauptgerichte
 küche: deutsch
-tags:
-  - basis/rind
-  - basis/speck-wurst
-  - methode/kochen
-  - über-60min
-  - aufwendig
-  - herzhaft
-  - deftig
+tags: '["basis/rind", "basis/speck-wurst", "methode/kochen"]'
 portionen: 4
 zubereitungszeit: 30
 kochzeit: 120
 schwierigkeit: aufwendig
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/Z3g1PMbGpjg
 version: "1.0"
 datum_erstellt: 2026-05-20

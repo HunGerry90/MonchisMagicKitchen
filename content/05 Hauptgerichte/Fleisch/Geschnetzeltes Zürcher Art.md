@@ -2,20 +2,14 @@
 titel: Geschnetzeltes Zürcher Art
 kategorie: Hauptgerichte
 küche: schweizer
-tags:
-  - basis/rind
-  - methode/braten
-  - unter-30min
-  - mittel
-  - cremig
-  - herzhaft
+tags: '["basis/rind", "methode/braten"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 20
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=zcesLJeuDT0
 version: "1.0"
 datum_erstellt: 2026-05-20

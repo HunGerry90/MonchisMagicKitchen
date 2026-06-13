@@ -2,16 +2,7 @@
 titel: Minestrone Suppe
 kategorie: Suppen & Eintöpfe
 küche: italienisch
-tags:
-  - basis/gemüse
-  - basis/kartoffeln
-  - vegetarisch
-  - vegan
-  - methode/kochen
-  - unter-60min
-  - einfach
-  - leicht
-  - herzhaft
+tags: '["basis/gemüse", "basis/kartoffeln", "methode/kochen"]'
 portionen: 6
 zubereitungszeit: 20
 kochzeit: 35
@@ -22,7 +13,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/c0y7Nku1W6A
 version: "1.0"
 datum_erstellt: 2026-05-20

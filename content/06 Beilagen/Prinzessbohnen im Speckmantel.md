@@ -2,14 +2,7 @@
 titel: Prinzessbohnen im Speckmantel
 kategorie: Beilagen
 küche: deutsch
-tags:
-  - basis/gemüse
-  - basis/speck-wurst
-  - methode/braten
-  - unter-15min
-  - einfach
-  - herzhaft
-  - knusprig
+tags: '["basis/gemüse","basis/speck-wurst","methode/braten"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 10
@@ -18,7 +11,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/Y4waglJlHuw
 version: "1.0"
 datum_erstellt: 2026-05-20

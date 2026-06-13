@@ -2,15 +2,7 @@
 titel: Knackiger Umami Rotkohl aus der Pfanne
 kategorie: Beilagen
 küche: asiatisch
-tags:
-  - basis/kohl
-  - vegetarisch
-  - vegan
-  - methode/braten
-  - unter-15min
-  - einfach
-  - würzig
-  - herzhaft
+tags: '["basis/kohl","methode/braten"]'
 portionen: 3
 zubereitungszeit: 5
 kochzeit: 10
@@ -19,8 +11,8 @@ ernährung:
   - vegetarisch
   - vegan
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

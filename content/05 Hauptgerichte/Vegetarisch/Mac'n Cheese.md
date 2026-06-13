@@ -2,16 +2,7 @@
 titel: Mac'n Cheese
 kategorie: Hauptgerichte
 küche: amerikanisch
-tags:
-  - basis/pasta
-  - basis/käse
-  - vegetarisch
-  - methode/kochen
-  - unter-60min
-  - einfach
-  - cremig
-  - herzhaft
-  - deftig
+tags: '["basis/pasta", "basis/käse", "methode/kochen"]'
 portionen: 9
 zubereitungszeit: 10
 kochzeit: 25
@@ -19,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/-AnQ4It-JFA
 version: "1.0"
 datum_erstellt: 2026-05-20

@@ -2,14 +2,7 @@
 titel: Nussbutter-Püree
 kategorie: Beilagen
 küche: französisch
-tags:
-  - basis/kartoffeln
-  - vegetarisch
-  - methode/kochen
-  - unter-30min
-  - einfach
-  - cremig
-  - herzhaft
+tags: '["basis/kartoffeln","methode/kochen"]'
 portionen: 4
 zubereitungszeit: 5
 kochzeit: 25
@@ -18,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/Z3g1PMbGpjg
 version: "1.0"
 datum_erstellt: 2026-05-20

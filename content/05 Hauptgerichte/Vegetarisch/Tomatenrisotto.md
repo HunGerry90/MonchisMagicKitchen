@@ -2,15 +2,7 @@
 titel: Tomatenrisotto
 kategorie: Hauptgerichte
 küche: italienisch
-tags:
-  - basis/reis
-  - basis/tomaten
-  - vegetarisch
-  - methode/kochen
-  - unter-30min
-  - mittel
-  - cremig
-  - herzhaft
+tags: '["basis/reis", "basis/tomaten", "methode/kochen"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 25
@@ -19,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=fFwemY-Z9y8
 version: "1.0"
 datum_erstellt: 2026-05-20

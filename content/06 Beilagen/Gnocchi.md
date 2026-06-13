@@ -2,14 +2,7 @@
 titel: Gnocchi
 kategorie: Beilagen
 küche: italienisch
-tags:
-  - basis/kartoffeln
-  - basis/mehl
-  - vegetarisch
-  - methode/kochen
-  - unter-60min
-  - mittel
-  - herzhaft
+tags: '["basis/kartoffeln","basis/mehl","methode/kochen"]'
 portionen: 2
 zubereitungszeit: 20
 kochzeit: 30
@@ -18,7 +11,7 @@ ernährung:
   - vegetarisch
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/tdFlmrF3BmI
 version: "1.0"
 datum_erstellt: 2026-05-20

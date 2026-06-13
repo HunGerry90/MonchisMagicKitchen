@@ -2,13 +2,7 @@
 titel: Gyrosspieß
 kategorie: Hauptgerichte
 küche: griechisch
-tags:
-  - basis/schwein
-  - methode/indirektes-grillen
-  - über-60min
-  - mittel
-  - herzhaft
-  - würzig
+tags: '["basis/schwein", "methode/grillen-direkt"]'
 portionen: 7
 zubereitungszeit: 30
 kochzeit: 90
@@ -17,8 +11,8 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

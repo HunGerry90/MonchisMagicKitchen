@@ -2,15 +2,7 @@
 titel: Butterchicken
 kategorie: Hauptgerichte
 küche: indisch
-tags:
-  - basis/hähnchen
-  - methode/braten
-  - methode/kochen
-  - unter-60min
-  - mittel
-  - cremig
-  - würzig
-  - scharf
+tags: '["basis/hähnchen", "methode/braten", "methode/kochen"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 40
@@ -18,7 +10,7 @@ schwierigkeit: mittel
 ernährung:
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/JKs-cRneTyE
 version: "1.0"
 datum_erstellt: 2026-05-20

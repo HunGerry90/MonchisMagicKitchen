@@ -2,13 +2,7 @@
 titel: Rotkohl mit Limetten-Crema
 kategorie: Beilagen
 küche: amerikanisch
-tags:
-  - basis/kohl
-  - vegetarisch
-  - unter-15min
-  - einfach
-  - cremig
-  - leicht
+tags: '["basis/kohl"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 0
@@ -17,8 +11,8 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

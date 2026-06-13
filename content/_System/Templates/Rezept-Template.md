@@ -1,15 +1,15 @@
 ---
 titel: Rezept-Template
-kategorie: 
-küche: 
+kategorie:
+küche:
 tags: []
 portionen: 4
-zubereitungszeit: 
-kochzeit: 
-schwierigkeit: 
+zubereitungszeit:
+kochzeit:
+schwierigkeit:
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht:
 quelle: ""
 version: "1.0"
 datum_erstellt: 2026-05-18

@@ -2,14 +2,7 @@
 titel: Gurken-Raita
 kategorie: Salate
 küche: indisch
-tags:
-  - basis/joghurt
-  - vegetarisch
-  - glutenfrei
-  - unter-15min
-  - einfach
-  - leicht
-  - mild
+tags: '["basis/joghurt"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 5
@@ -18,8 +11,8 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

@@ -2,14 +2,7 @@
 titel: Kartoffel-Rösti
 kategorie: Beilagen
 küche: schweizer
-tags:
-  - basis/kartoffeln
-  - vegetarisch
-  - methode/braten
-  - unter-30min
-  - mittel
-  - knusprig
-  - herzhaft
+tags: '["basis/kartoffeln","methode/braten"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 15
@@ -19,7 +12,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=AvqXanbLnns
 version: "1.0"
 datum_erstellt: 2026-05-20

@@ -2,15 +2,7 @@
 titel: Thai Mango Linsensalat mit Hähnchen
 kategorie: Salate
 küche: thailändisch
-tags:
-  - basis/hähnchen
-  - basis/hülsenfrüchte
-  - methode/braten
-  - unter-30min
-  - einfach
-  - leicht
-  - scharf
-  - süß
+tags: '["basis/hähnchen", "basis/hülsenfrüchte", "methode/braten"]'
 portionen: 2
 zubereitungszeit: 15
 kochzeit: 15
@@ -18,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.hellofresh.de/recipes/Thai-Mango-Linsensalat-mit-H%C3%A4hnchen--682b3cc399bb603b9b43a3ab
 version: "1.0"
 datum_erstellt: 2026-05-20

@@ -2,16 +2,8 @@
 titel: Knuspriger Kartoffelsalat mit Kürbiscreme und Kichererbsen
 kategorie: Salate
 küche: deutsch
-tags:
-  - basis/kartoffeln
-  - basis/kürbis
-  - basis/hülsenfrüchte
-  - vegetarisch
-  - methode/backen
-  - unter-60min
-  - mittel
-  - leicht
-  - saison/herbst
+tags: '["basis/kartoffeln", "basis/kürbis", "basis/hülsenfrüchte",
+  "methode/backen", "saison/herbst"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 40
@@ -20,7 +12,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtube.com/shorts/L0cjtWePLTg
 version: "1.0"
 datum_erstellt: 2026-05-20

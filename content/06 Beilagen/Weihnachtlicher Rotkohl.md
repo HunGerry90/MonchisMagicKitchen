@@ -2,15 +2,7 @@
 titel: Weihnachtlicher Rotkohl
 kategorie: Beilagen
 küche: deutsch
-tags:
-  - basis/kohl
-  - vegetarisch
-  - methode/kochen
-  - über-60min
-  - mittel
-  - süß
-  - herzhaft
-  - saison/winter
+tags: '["basis/kohl","methode/kochen","saison/winter"]'
 portionen: 6
 zubereitungszeit: 20
 kochzeit: 90
@@ -19,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=qv4eOO-o1Ws
 version: "1.0"
 datum_erstellt: 2026-05-20

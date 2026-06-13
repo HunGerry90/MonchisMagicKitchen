@@ -2,14 +2,7 @@
 titel: Texas Red Chili (Bowl of Red)
 kategorie: Hauptgerichte
 küche: amerikanisch
-tags:
-  - basis/rind
-  - methode/kochen
-  - über-60min
-  - mittel
-  - scharf
-  - herzhaft
-  - deftig
+tags: '["basis/rind", "methode/kochen"]'
 portionen: 6
 zubereitungszeit: 20
 kochzeit: 240
@@ -18,7 +11,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/lWLuQQzA9V0
 version: "1.0"
 datum_erstellt: 2026-05-20

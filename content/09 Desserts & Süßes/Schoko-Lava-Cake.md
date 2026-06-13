@@ -2,14 +2,7 @@
 titel: Schoko-Lava-Cake
 kategorie: Desserts & Süßes
 küche: französisch
-tags:
-  - basis/schokolade
-  - basis/ei
-  - vegetarisch
-  - methode/backen
-  - unter-30min
-  - einfach
-  - süß
+tags: '["basis/schokolade","basis/ei","methode/backen"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 13
@@ -17,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/taKfpHcmFds
 version: "1.0"
 datum_erstellt: 2026-05-20

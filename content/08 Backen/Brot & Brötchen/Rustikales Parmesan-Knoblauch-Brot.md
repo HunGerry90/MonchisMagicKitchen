@@ -2,15 +2,7 @@
 titel: Rustikales Parmesan-Knoblauch-Brot
 kategorie: Backen
 küche: italienisch
-tags:
-  - basis/mehl
-  - basis/käse
-  - vegetarisch
-  - methode/backen
-  - unter-60min
-  - einfach
-  - herzhaft
-  - würzig
+tags: '["basis/mehl","basis/käse","methode/backen"]'
 portionen: 3
 zubereitungszeit: 15
 kochzeit: 25
@@ -18,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/8xa668m2Ff0
 version: "1.0"
 datum_erstellt: 2026-05-20

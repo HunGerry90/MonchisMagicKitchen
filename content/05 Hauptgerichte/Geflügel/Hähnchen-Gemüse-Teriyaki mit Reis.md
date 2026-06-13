@@ -2,15 +2,7 @@
 titel: Hähnchen-Gemüse-Teriyaki mit Reis
 kategorie: Hauptgerichte
 küche: japanisch
-tags:
-  - basis/hähnchen
-  - basis/gemüse
-  - basis/reis
-  - methode/braten
-  - unter-30min
-  - einfach
-  - würzig
-  - leicht
+tags: '["basis/hähnchen", "basis/gemüse", "basis/reis", "methode/braten"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 20
@@ -18,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/BZlH57rBuSQ
 version: "1.0"
 datum_erstellt: 2026-05-20

@@ -2,16 +2,7 @@
 titel: Jamaikanischer Reis mit Limetten-Kokosmilch
 kategorie: Beilagen
 küche: karibisch
-tags:
-  - basis/reis
-  - basis/hülsenfrüchte
-  - vegetarisch
-  - methode/dutch-oven
-  - methode/kochen
-  - unter-60min
-  - einfach
-  - würzig
-  - süß
+tags: '["basis/reis","basis/hülsenfrüchte","methode/dutch-oven","methode/kochen"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 35
@@ -21,7 +12,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/QKgsd38h6fk
 version: "1.0"
 datum_erstellt: 2026-05-20

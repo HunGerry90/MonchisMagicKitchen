@@ -2,17 +2,8 @@
 titel: Grüner Spargel mit Burrata-Creme
 kategorie: Vorspeisen & Antipasti
 küche: italienisch
-tags:
-  - basis/gemüse
-  - basis/käse
-  - basis/tomaten
-  - vegetarisch
-  - methode/braten
-  - unter-30min
-  - einfach
-  - cremig
-  - leicht
-  - saison/frühling
+tags: '["basis/gemüse", "basis/käse", "basis/tomaten", "methode/braten",
+  "saison/frühling"]'
 portionen: 2
 zubereitungszeit: 15
 kochzeit: 10
@@ -20,7 +11,7 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=n1nJyW_oApo
 version: "1.0"
 datum_erstellt: 2026-05-20

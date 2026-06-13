@@ -2,23 +2,15 @@
 titel: Hack-Käse-Rolle
 kategorie: Hauptgerichte
 küche: deutsch
-tags:
-  - basis/hackfleisch
-  - basis/käse
-  - basis/speck-wurst
-  - methode/dämpfen
-  - methode/backen
-  - unter-60min
-  - mittel
-  - herzhaft
-  - deftig
+tags: '["basis/hackfleisch", "basis/käse", "basis/speck-wurst",
+  "methode/dämpfen", "methode/backen"]'
 portionen: 6
 zubereitungszeit: 25
 kochzeit: 45
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=IP3VWPkzuiA
 version: "1.0"
 datum_erstellt: 2026-05-20

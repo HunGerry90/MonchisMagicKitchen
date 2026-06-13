@@ -2,21 +2,15 @@
 titel: Wiener Schnitzel mit Kartoffel-Gurkensalat und Topfenpalatschinken
 kategorie: Hauptgerichte/Fleisch
 küche: Österreichisch
-tags:
-  - küche/österreichisch
-  - methode/braten
-  - basis/kalb
-  - basis/ei
-  - basis/kartoffeln
-  - mittel
-  - saison/ganzjährig
+tags: '["methode/braten", "basis/kalb", "basis/ei", "basis/kartoffeln",
+  "saison/ganzjährig"]'
 portionen: 4
 zubereitungszeit: 45
 kochzeit: 60
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: ""
 version: "1.0"
 datum_erstellt: 2026-05-18

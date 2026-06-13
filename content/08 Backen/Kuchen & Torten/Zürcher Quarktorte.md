@@ -2,15 +2,7 @@
 titel: Zürcher Quarktorte (Käsekuchen / Cheesecake)
 kategorie: Backen
 küche: schweizer
-tags:
-  - basis/mehl
-  - basis/joghurt
-  - basis/ei
-  - vegetarisch
-  - methode/backen
-  - über-60min
-  - aufwendig
-  - süß
+tags: '["basis/mehl","basis/joghurt","basis/ei","methode/backen"]'
 portionen: 12
 zubereitungszeit: 45
 kochzeit: 45
@@ -18,7 +10,7 @@ schwierigkeit: aufwendig
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=O2TxEJZomnQ
 version: "1.0"
 datum_erstellt: 2026-05-20

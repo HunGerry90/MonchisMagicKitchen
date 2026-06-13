@@ -2,13 +2,7 @@
 titel: Gurkensalat
 kategorie: Salate
 küche: deutsch
-tags:
-  - basis/gemüse
-  - vegetarisch
-  - unter-15min
-  - einfach
-  - cremig
-  - leicht
+tags: '["basis/gemüse"]'
 portionen: 3
 zubereitungszeit: 15
 kochzeit: 0
@@ -17,8 +11,8 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

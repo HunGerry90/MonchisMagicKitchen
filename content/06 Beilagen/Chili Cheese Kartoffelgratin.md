@@ -2,16 +2,7 @@
 titel: Chili Cheese Kartoffelgratin
 kategorie: Beilagen
 küche: amerikanisch
-tags:
-  - basis/kartoffeln
-  - basis/käse
-  - vegetarisch
-  - methode/backen
-  - unter-60min
-  - einfach
-  - cremig
-  - scharf
-  - herzhaft
+tags: '["basis/kartoffeln","basis/käse","methode/backen"]'
 portionen: 7
 zubereitungszeit: 20
 kochzeit: 45
@@ -20,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=TV26hYZnUfs
 version: "1.0"
 datum_erstellt: 2026-05-20

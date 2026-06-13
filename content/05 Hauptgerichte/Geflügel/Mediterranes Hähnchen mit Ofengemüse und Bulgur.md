@@ -2,22 +2,14 @@
 titel: Mediterranes Hähnchen mit Ofengemüse & Bulgur
 kategorie: Hauptgerichte
 küche: griechisch
-tags:
-  - basis/hähnchen
-  - basis/gemüse
-  - basis/couscous
-  - methode/backen
-  - unter-60min
-  - einfach
-  - leicht
-  - herzhaft
+tags: '["basis/hähnchen", "basis/gemüse", "basis/couscous", "methode/backen"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 35
 schwierigkeit: einfach
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/o3lHeyqSLMs
 version: "1.0"
 datum_erstellt: 2026-05-20

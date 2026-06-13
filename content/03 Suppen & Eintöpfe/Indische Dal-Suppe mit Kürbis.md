@@ -2,17 +2,7 @@
 titel: Indische Dal-Suppe mit Kürbis
 kategorie: Suppen & Eintöpfe
 küche: indisch
-tags:
-  - basis/hülsenfrüchte
-  - basis/kürbis
-  - vegetarisch
-  - vegan
-  - methode/kochen
-  - unter-30min
-  - einfach
-  - scharf
-  - würzig
-  - leicht
+tags: '["basis/hülsenfrüchte", "basis/kürbis", "methode/kochen"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 20
@@ -23,8 +13,8 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

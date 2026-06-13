@@ -2,15 +2,7 @@
 titel: Zumach-Zwiebeln (türkischer Zwiebelsalat)
 kategorie: Salate
 küche: türkisch
-tags:
-  - basis/gemüse
-  - vegetarisch
-  - vegan
-  - unter-15min
-  - einfach
-  - scharf
-  - würzig
-  - leicht
+tags: '["basis/gemüse"]'
 portionen: 6
 zubereitungszeit: 15
 kochzeit: 0
@@ -21,7 +13,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=g7YclC7BGd0
 version: "1.0"
 datum_erstellt: 2026-05-20

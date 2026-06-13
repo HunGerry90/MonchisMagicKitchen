@@ -2,14 +2,7 @@
 titel: Crêpes Suzette
 kategorie: Desserts & Süßes
 küche: französisch
-tags:
-  - basis/mehl
-  - basis/ei
-  - vegetarisch
-  - methode/braten
-  - unter-60min
-  - mittel
-  - süß
+tags: '["basis/mehl","basis/ei","methode/braten"]'
 portionen: 6
 zubereitungszeit: 20
 kochzeit: 30
@@ -17,7 +10,7 @@ schwierigkeit: mittel
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/kcMQPBNXmhI
 version: "1.0"
 datum_erstellt: 2026-05-20

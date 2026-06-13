@@ -2,14 +2,7 @@
 titel: Orientalischer Bulgur-Salat mit Paprika und Grenadine
 kategorie: Beilagen
 küche: türkisch
-tags:
-  - basis/couscous
-  - vegetarisch
-  - vegan
-  - unter-30min
-  - einfach
-  - würzig
-  - leicht
+tags: '["basis/couscous"]'
 portionen: 8
 zubereitungszeit: 15
 kochzeit: 15
@@ -19,7 +12,7 @@ ernährung:
   - vegan
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=89whZeosRLU
 version: "1.0"
 datum_erstellt: 2026-05-20

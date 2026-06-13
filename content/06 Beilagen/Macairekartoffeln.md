@@ -2,20 +2,14 @@
 titel: Macairekartoffeln
 kategorie: Beilagen
 küche: französisch
-tags:
-  - basis/kartoffeln
-  - methode/braten
-  - unter-60min
-  - mittel
-  - knusprig
-  - herzhaft
+tags: '["basis/kartoffeln","methode/braten"]'
 portionen: 8
 zubereitungszeit: 20
 kochzeit: 30
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/2mbyIUZHM8o
 version: "1.0"
 datum_erstellt: 2026-05-20

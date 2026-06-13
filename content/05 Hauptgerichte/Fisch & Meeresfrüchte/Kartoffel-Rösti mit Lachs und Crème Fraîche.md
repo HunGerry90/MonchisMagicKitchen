@@ -2,14 +2,7 @@
 titel: Kartoffel-Rösti mit Lachs und Crème Fraîche
 kategorie: Hauptgerichte
 küche: schweizer
-tags:
-  - basis/kartoffeln
-  - basis/lachs
-  - methode/braten
-  - unter-30min
-  - mittel
-  - knusprig
-  - leicht
+tags: '["basis/kartoffeln", "basis/lachs", "methode/braten"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 15
@@ -17,7 +10,7 @@ schwierigkeit: mittel
 ernährung:
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=AvqXanbLnns
 version: "1.0"
 datum_erstellt: 2026-05-20

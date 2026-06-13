@@ -2,15 +2,7 @@
 titel: Süßkartoffel mit Chimichurri und Limettenschmand
 kategorie: Beilagen
 küche: amerikanisch
-tags:
-  - basis/kürbis
-  - vegetarisch
-  - vegan
-  - methode/backen
-  - unter-60min
-  - mittel
-  - würzig
-  - scharf
+tags: '["basis/kürbis","methode/backen"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 40
@@ -19,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=nMABgvGaJWA
 version: "1.0"
 datum_erstellt: 2026-05-20

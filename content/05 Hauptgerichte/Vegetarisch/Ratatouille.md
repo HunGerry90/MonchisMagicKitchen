@@ -2,16 +2,7 @@
 titel: Ratatouille
 kategorie: Hauptgerichte
 küche: französisch
-tags:
-  - basis/gemüse
-  - basis/zucchini
-  - basis/paprika
-  - vegetarisch
-  - vegan
-  - methode/braten
-  - unter-60min
-  - mittel
-  - leicht
+tags: '["basis/gemüse", "basis/zucchini", "basis/paprika", "methode/braten"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 35
@@ -22,7 +13,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/LNWUBF3AkJc
 version: "1.0"
 datum_erstellt: 2026-05-20

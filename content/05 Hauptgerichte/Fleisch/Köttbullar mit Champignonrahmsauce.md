@@ -2,22 +2,15 @@
 titel: Köttbullar mit Champignonrahmsauce
 kategorie: Hauptgerichte
 küche: schwedisch
-tags:
-  - basis/hackfleisch
-  - basis/pilze
-  - methode/braten
-  - unter-60min
-  - einfach
-  - cremig
-  - herzhaft
+tags: '["basis/hackfleisch", "basis/pilze", "methode/braten"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 25
 schwierigkeit: einfach
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

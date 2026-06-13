@@ -2,13 +2,7 @@
 titel: Reis (naturbelassen)
 kategorie: Beilagen
 küche: asiatisch
-tags:
-  - basis/reis
-  - vegetarisch
-  - vegan
-  - unter-15min
-  - einfach
-  - leicht
+tags: '["basis/reis"]'
 portionen: 2
 zubereitungszeit: 2
 kochzeit: 12
@@ -19,7 +13,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/m7HLPsQtjCQ
 version: "1.0"
 datum_erstellt: 2026-05-20

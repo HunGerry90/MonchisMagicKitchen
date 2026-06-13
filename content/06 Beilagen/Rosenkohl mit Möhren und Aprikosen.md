@@ -2,17 +2,7 @@
 titel: Rosenkohl mit Möhren und Aprikosen
 kategorie: Beilagen
 küche: deutsch
-tags:
-  - basis/gemüse
-  - vegetarisch
-  - vegan
-  - methode/kochen
-  - unter-30min
-  - einfach
-  - süß
-  - leicht
-  - saison/herbst
-  - saison/winter
+tags: '["basis/gemüse","methode/kochen","saison/herbst","saison/winter"]'
 portionen: 3
 zubereitungszeit: 15
 kochzeit: 15
@@ -22,7 +12,7 @@ ernährung:
   - vegan
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/FR-6JDA0o-k
 version: "1.0"
 datum_erstellt: 2026-05-20

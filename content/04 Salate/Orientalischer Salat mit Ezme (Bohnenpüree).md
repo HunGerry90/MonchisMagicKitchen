@@ -2,15 +2,7 @@
 titel: Orientalischer Salat mit Ezme (Bohnenpüree)
 kategorie: Salate
 küche: türkisch
-tags:
-  - basis/hülsenfrüchte
-  - basis/käse
-  - basis/gemüse
-  - vegetarisch
-  - unter-30min
-  - mittel
-  - würzig
-  - leicht
+tags: '["basis/hülsenfrüchte", "basis/käse", "basis/gemüse"]'
 portionen: 4
 zubereitungszeit: 25
 kochzeit: 0
@@ -19,7 +11,7 @@ ernährung:
   - vegetarisch
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=6AgOXOsp6R4
 version: "1.0"
 datum_erstellt: 2026-05-20

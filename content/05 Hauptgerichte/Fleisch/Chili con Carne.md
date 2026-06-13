@@ -2,20 +2,15 @@
 titel: Chili con Carne
 kategorie: Hauptgerichte
 küche: amerikanisch
-tags:
-  - basis/hackfleisch
-  - methode/kochen
-  - scharf
-  - herzhaft
-  - deftig
+tags: '["basis/hackfleisch", "methode/kochen"]'
 portionen: 7
 zubereitungszeit: 20
 kochzeit: 60
 schwierigkeit: einfach
 ernährung: []
 bewertung: 0
-zuletzt_gekocht:
-quelle:
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

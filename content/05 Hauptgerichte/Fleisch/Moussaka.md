@@ -2,22 +2,14 @@
 titel: Moussaka
 kategorie: Hauptgerichte
 küche: griechisch
-tags:
-  - basis/hackfleisch
-  - basis/kartoffeln
-  - basis/gemüse
-  - methode/backen
-  - über-60min
-  - aufwendig
-  - herzhaft
-  - deftig
+tags: '["basis/hackfleisch", "basis/kartoffeln", "basis/gemüse", "methode/backen"]'
 portionen: 6
 zubereitungszeit: 40
 kochzeit: 60
 schwierigkeit: aufwendig
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/UMZwOuWIoJ0
 version: "1.0"
 datum_erstellt: 2026-05-20

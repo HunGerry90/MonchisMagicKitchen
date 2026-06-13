@@ -2,14 +2,7 @@
 titel: Vanillesauce / Espuma
 kategorie: Desserts & Süßes
 küche: französisch
-tags:
-  - basis/ei
-  - basis/sahne
-  - vegetarisch
-  - methode/kochen
-  - unter-30min
-  - mittel
-  - süß
+tags: '["basis/ei","basis/sahne","methode/kochen"]'
 portionen: 4
 zubereitungszeit: 10
 kochzeit: 20
@@ -18,8 +11,8 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

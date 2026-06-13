@@ -2,23 +2,15 @@
 titel: Pilzrisotto mit Piccata Milanese
 kategorie: Hauptgerichte
 küche: italienisch
-tags:
-  - basis/reis
-  - basis/pilze
-  - basis/hähnchen
-  - methode/kochen
-  - methode/braten
-  - über-60min
-  - mittel
-  - cremig
-  - herzhaft
+tags: '["basis/reis", "basis/pilze", "basis/hähnchen", "methode/kochen",
+  "methode/braten"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 40
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/JHWc6KKq61Y
 version: "1.0"
 datum_erstellt: 2026-05-20

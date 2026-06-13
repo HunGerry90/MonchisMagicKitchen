@@ -2,21 +2,14 @@
 titel: Bolognese
 kategorie: Hauptgerichte
 küche: italienisch
-tags:
-  - basis/hackfleisch
-  - basis/rind
-  - methode/kochen
-  - über-60min
-  - mittel
-  - herzhaft
-  - deftig
+tags: '["basis/hackfleisch", "basis/rind", "methode/kochen"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 150
 schwierigkeit: mittel
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=JA3bRAgEzaE
 version: "1.0"
 datum_erstellt: 2026-05-20

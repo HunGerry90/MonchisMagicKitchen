@@ -2,15 +2,7 @@
 titel: Kartoffelgratin
 kategorie: Beilagen
 küche: französisch
-tags:
-  - basis/kartoffeln
-  - basis/sahne
-  - vegetarisch
-  - methode/backen
-  - unter-60min
-  - einfach
-  - cremig
-  - herzhaft
+tags: '["basis/kartoffeln","basis/sahne","methode/backen"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 30
@@ -19,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/VAmHwc7rzz0
 version: "1.0"
 datum_erstellt: 2026-05-20

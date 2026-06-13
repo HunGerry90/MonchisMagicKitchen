@@ -2,14 +2,7 @@
 titel: Mediterraner Nudelsalat mit Tomaten-Rucola
 kategorie: Salate
 küche: italienisch
-tags:
-  - basis/pasta
-  - basis/käse
-  - vegetarisch
-  - unter-30min
-  - einfach
-  - leicht
-  - saison/sommer
+tags: '["basis/pasta", "basis/käse", "saison/sommer"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 15
@@ -17,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=pRcAP04zjPc
 version: "1.0"
 datum_erstellt: 2026-05-20

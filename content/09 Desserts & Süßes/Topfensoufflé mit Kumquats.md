@@ -2,15 +2,7 @@
 titel: Topfensoufflé mit Kumquats
 kategorie: Desserts & Süßes
 küche: österreichisch
-tags:
-  - basis/ei
-  - basis/joghurt
-  - vegetarisch
-  - methode/backen
-  - unter-30min
-  - mittel
-  - süß
-  - leicht
+tags: '["basis/ei","basis/joghurt","methode/backen"]'
 portionen: 6
 zubereitungszeit: 20
 kochzeit: 9
@@ -19,8 +11,8 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
-quelle: 
+zuletzt_gekocht: null
+quelle: null
 version: "1.0"
 datum_erstellt: 2026-05-20
 nährwerte:

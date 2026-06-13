@@ -2,22 +2,14 @@
 titel: Cafe de Paris-Geschnetzeltes mit Semmelknödeln
 kategorie: Hauptgerichte
 küche: schweizer
-tags:
-  - basis/rind
-  - basis/schwein
-  - methode/braten
-  - unter-60min
-  - aufwendig
-  - cremig
-  - herzhaft
-  - würzig
+tags: '["basis/rind", "basis/schwein", "methode/braten"]'
 portionen: 4
 zubereitungszeit: 30
 kochzeit: 30
 schwierigkeit: aufwendig
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=QRkWeBpEcVY
 version: "1.0"
 datum_erstellt: 2026-05-20

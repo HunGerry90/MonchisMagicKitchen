@@ -2,15 +2,7 @@
 titel: Rinder-Tatar mit Eigelbcreme und Kartoffelchips
 kategorie: Vorspeisen & Antipasti
 küche: französisch
-tags:
-  - basis/rind
-  - basis/kartoffeln
-  - basis/ei
-  - methode/rohkost
-  - unter-30min
-  - mittel
-  - herzhaft
-  - würzig
+tags: '["basis/rind", "basis/kartoffeln", "basis/ei", "methode/rohkost"]'
 portionen: 4
 zubereitungszeit: 25
 kochzeit: 10
@@ -19,7 +11,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=AvqXanbLnns
 version: "1.0"
 datum_erstellt: 2026-05-20

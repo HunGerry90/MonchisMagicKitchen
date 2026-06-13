@@ -2,15 +2,7 @@
 titel: Soufflé Pfitzauf (schwäbisch)
 kategorie: Desserts & Süßes
 küche: deutsch
-tags:
-  - basis/mehl
-  - basis/ei
-  - vegetarisch
-  - methode/backen
-  - unter-60min
-  - einfach
-  - süß
-  - leicht
+tags: '["basis/mehl","basis/ei","methode/backen"]'
 portionen: 4
 zubereitungszeit: 15
 kochzeit: 28
@@ -18,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://www.youtube.com/watch?v=sFzFMi0yw1I
 version: "1.0"
 datum_erstellt: 2026-05-20

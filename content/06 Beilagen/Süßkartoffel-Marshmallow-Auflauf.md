@@ -2,15 +2,7 @@
 titel: Süßkartoffel-Marshmallow-Auflauf
 kategorie: Beilagen
 küche: amerikanisch
-tags:
-  - basis/kürbis
-  - vegetarisch
-  - methode/backen
-  - unter-60min
-  - mittel
-  - süß
-  - herzhaft
-  - saison/herbst
+tags: '["basis/kürbis","methode/backen","saison/herbst"]'
 portionen: 4
 zubereitungszeit: 20
 kochzeit: 45
@@ -19,7 +11,7 @@ ernährung:
   - vegetarisch
   - glutenfrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/V2ZuKjkPA6c
 version: "1.0"
 datum_erstellt: 2026-05-20

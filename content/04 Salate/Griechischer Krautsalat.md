@@ -2,15 +2,7 @@
 titel: Griechischer Krautsalat
 kategorie: Salate
 küche: griechisch
-tags:
-  - basis/kohl
-  - vegetarisch
-  - vegan
-  - unter-30min
-  - einfach
-  - süß
-  - leicht
-  - saison/sommer
+tags: '["basis/kohl", "saison/sommer"]'
 portionen: 10
 zubereitungszeit: 20
 kochzeit: 0
@@ -21,7 +13,7 @@ ernährung:
   - glutenfrei
   - laktosefrei
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/70E23A5AU-s
 version: "1.0"
 datum_erstellt: 2026-05-20

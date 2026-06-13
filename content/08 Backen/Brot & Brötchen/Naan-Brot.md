@@ -2,15 +2,7 @@
 titel: Naan-Brot
 kategorie: Backen
 küche: indisch
-tags:
-  - basis/mehl
-  - basis/joghurt
-  - vegetarisch
-  - methode/backen
-  - methode/braten
-  - unter-60min
-  - einfach
-  - herzhaft
+tags: '["basis/mehl","basis/joghurt","methode/backen","methode/braten"]'
 portionen: 7
 zubereitungszeit: 15
 kochzeit: 15
@@ -18,7 +10,7 @@ schwierigkeit: einfach
 ernährung:
   - vegetarisch
 bewertung: 0
-zuletzt_gekocht: 
+zuletzt_gekocht: null
 quelle: https://youtu.be/egchwA4hAZA
 version: "1.0"
 datum_erstellt: 2026-05-20
