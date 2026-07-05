@@ -2,15 +2,22 @@
 titel: Linseneintopf
 kategorie: Suppen & Eintöpfe
 küche: Deutsch
-tags: [basis/hülsenfrüchte, basis/kartoffeln, methode/kochen, saison/herbst, saison/winter, batch-cooking, ausprobieren]
+tags:
+  - basis/hülsenfrüchte
+  - basis/kartoffeln
+  - methode/kochen
+  - saison/herbst
+  - saison/winter
+  - batch-cooking
+  - ausprobieren
 portionen: 6
 zubereitungszeit: 15
 kochzeit: 30
 schwierigkeit: einfach
 ernährung: []
 bewertung: 0
-zuletzt_gekocht: 
-quelle: "https://www.youtube.com/watch?v=j6AhhaUomh0"
+zuletzt_gekocht: null
+quelle: Kochen im Tal – https://www.youtube.com/watch?v=j6AhhaUomh0
 version: "1.0"
 datum_erstellt: 2026-07-05
 nährwerte:
@@ -18,7 +25,7 @@ nährwerte:
   protein: 23
   kohlenhydrate: 48
   fett: 10
-notizen: "Nährwerte geschätzt"
+notizen: Nährwerte geschätzt
 ---
 
 ## 📝 Beschreibung
@@ -30,6 +37,7 @@ Klassischer, deftiger Linseneintopf nach Großmutters Art aus dem Landhotel Jamm
 ## 📸 Fotos
 
 ![[_System/Attachments/Linseneintopf/foto-fertig.jpg]]
+![Vorschaubild (Kochen im Tal)](https://i.ytimg.com/vi_webp/j6AhhaUomh0/maxresdefault.webp)
 
 ---
 
