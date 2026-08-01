@@ -6,7 +6,7 @@ TABLE WITHOUT ID
   küche AS Küche,
   zubereitungszeit AS "Zeit (Min)",
   bewertung AS "⭐"
-FROM "Rezeptsammlung/11 Getränke/Alkoholfrei"
+FROM "11 Getränke/Alkoholfrei"
 WHERE file.name != "_Index"
 SORT bewertung DESC, file.name ASC
 ```

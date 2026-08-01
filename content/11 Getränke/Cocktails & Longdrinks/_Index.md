@@ -7,7 +7,7 @@ TABLE WITHOUT ID
   schwierigkeit AS Schwierigkeit,
   zubereitungszeit AS "Zeit (Min)",
   bewertung AS "⭐"
-FROM "Rezeptsammlung/11 Getränke/Cocktails & Longdrinks"
+FROM "11 Getränke/Cocktails & Longdrinks"
 WHERE file.name != "_Index"
 SORT bewertung DESC, file.name ASC
 ```
