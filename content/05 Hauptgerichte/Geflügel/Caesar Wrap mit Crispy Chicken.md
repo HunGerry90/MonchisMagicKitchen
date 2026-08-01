@@ -36,38 +36,38 @@ Caesar Wraps Deluxe mit außen knusprig paniertem Crispy Chicken, hausgemachtem 
 
 ## 🧺 Zutaten
 
-| Zutat | 2 Port. | 4 Port. | 6 Port. | 8 Port. |
-|-------|--------:|--------:|--------:|--------:|
-| **Crispy Chicken** | | | | |
-| Hähnchenbrust (oder ausgelöste Keulen) | 325 g | 650 g | 975 g | 1,3 kg |
-| Mehl | 75 g | 150 g | 225 g | 300 g |
-| Eier | 2 | 3 | 5 | 6 |
-| Panko (oder Semmelbrösel) | 100 g | 200 g | 300 g | 400 g |
-| Parmesan, fein gerieben | 25 g | 50 g | 75 g | 100 g |
-| Paprikapulver edelsüß | ½ TL | 1 TL | 1½ TL | 2 TL |
-| Knoblauchpulver (oder frischer Knoblauch) | ½ TL | 1 TL | 1½ TL | 2 TL |
-| Cayenne oder Chili | ¼ TL | ½ TL | ¾ TL | 1 TL |
-| Salz, Pfeffer | n. G. | n. G. | n. G. | n. G. |
-| Neutrales Öl zum Ausbacken | ca. 750 ml | ca. 750 ml | ca. 750 ml | ca. 750 ml |
-| **Wraps & Füllung** | | | | |
-| Große Weizentortillas / Wraps | 4 | 6–8 | 10 | 12–16 |
-| Romanasalat | 1 Kopf | 2 Köpfe | 3 Köpfe | 4 Köpfe |
-| Parmesan zum Hobeln | 45 g | 90 g | 135 g | 180 g |
-| [[Caesar-Dressing]] | ½ Rezept | 1 Rezept | 1½ Rezepte | 2 Rezepte |
-| Tomaten (optional) | 1 | 2 | 3 | 4 |
-| Rote Zwiebel (optional) | ½ | 1 | 1½ | 2 |
-| Bacon (optional) | n. B. | n. B. | n. B. | n. B. |
+| Zutat                                     |    2 Port. |    4 Port. |    6 Port. |    8 Port. |
+| ----------------------------------------- | ---------: | ---------: | ---------: | ---------: |
+| **Crispy Chicken**                        |            |            |            |            |
+| Hähnchenbrust (oder ausgelöste Keulen)    |      325 g |      650 g |      975 g |     1,3 kg |
+| Mehl                                      |       75 g |      150 g |      225 g |      300 g |
+| Eier                                      |          2 |          3 |          5 |          6 |
+| Panko (oder Semmelbrösel)                 |      100 g |      200 g |      300 g |      400 g |
+| Parmesan, fein gerieben                   |       25 g |       50 g |       75 g |      100 g |
+| Paprikapulver edelsüß                     |       ½ TL |       1 TL |      1½ TL |       2 TL |
+| Knoblauchpulver (oder frischer Knoblauch) |       ½ TL |       1 TL |      1½ TL |       2 TL |
+| Cayenne oder Chili                        |       ¼ TL |       ½ TL |       ¾ TL |       1 TL |
+| Salz, Pfeffer                             |      n. G. |      n. G. |      n. G. |      n. G. |
+| Neutrales Öl zum Ausbacken                | ca. 750 ml | ca. 750 ml | ca. 750 ml | ca. 750 ml |
+| **Wraps & Füllung**                       |            |            |            |            |
+| Große Weizentortillas / Wraps             |          4 |        6–8 |         10 |      12–16 |
+| Romanasalat                               |     1 Kopf |    2 Köpfe |    3 Köpfe |    4 Köpfe |
+| Parmesan zum Hobeln                       |       45 g |       90 g |      135 g |      180 g |
+| [[Caesar-Dressing]]                       |   ½ Rezept |   1 Rezept | 1½ Rezepte |  2 Rezepte |
+| Tomaten (optional)                        |          1 |          2 |          3 |          4 |
+| Rote Zwiebel (optional)                   |          ½ |          1 |         1½ |          2 |
+| Bacon (optional)                          |      n. B. |      n. B. |      n. B. |      n. B. |
 
 ---
 
 ## ⏱️ Mise en Place
 
-| Vorbereitung | Zeit vorher |
-|---|---|
-| [[Caesar-Dressing]] zubereiten und kalt stellen | bis 1 Tag |
-| Hähnchen parieren, in Streifen dritteln, marinieren | 20 Min |
-| Panierstraße aufbauen (Mehl / Ei / Panko+Parmesan) | 10 Min |
-| Toppings schneiden, Bacon auslassen, Parmesan hobeln | 15 Min |
+| Vorbereitung                                         | Zeit vorher |
+| ---------------------------------------------------- | ----------- |
+| [[Caesar-Dressing]] zubereiten und kalt stellen      | bis 1 Tag   |
+| Hähnchen parieren, in Streifen dritteln, marinieren  | 20 Min      |
+| Panierstraße aufbauen (Mehl / Ei / Panko+Parmesan)   | 10 Min      |
+| Toppings schneiden, Bacon auslassen, Parmesan hobeln | 15 Min      |
 
 ---
 

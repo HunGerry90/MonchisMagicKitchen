@@ -36,20 +36,20 @@ notizen: ""
 
 ## 🧺 Zutaten
 
-| Zutat | 2 Port. | 4 Port. | 6 Port. | 8 Port. |
-|-------|--------:|--------:|--------:|--------:|
-| Rinderhack / Rindergeschnetzeltes | 250 g | 500 g | 750 g | 1000 g |
-| Zucchini | 0,5 Stk. | 1 Stk. | 1,5 Stk. | 2 Stk. |
-| Möhren | 1 Stk. | 2 Stk. | 3 Stk. | 4 Stk. |
-| Kichererbsen (Dose, Abtropfgewicht) | 120 g | 240 g | 360 g | 480 g |
-| Couscous | 150 g | 300 g | 450 g | 600 g |
-| Gurke | 0,5 Stk. | 1 Stk. | 1,5 Stk. | 2 Stk. |
-| Mandelstifte | 25 g | 50 g | 75 g | 100 g |
-| Koriander / Petersilie | 0,5 Bund | 1 Bund | 1,5 Bund | 2 Bund |
-| **Joghurt-Minzdip** | | | | |
-| Naturjoghurt (griechisch, 10%) | 100 g | 200 g | 300 g | 400 g |
-| Minze | 0,5 Bund | 1 Bund | 1,5 Bund | 2 Bund |
-| Salz & Pfeffer | nach Geschmack | | | |
+| Zutat                               |        2 Port. | 4 Port. |  6 Port. | 8 Port. |
+| ----------------------------------- | -------------: | ------: | -------: | ------: |
+| Rinderhack / Rindergeschnetzeltes   |          250 g |   500 g |    750 g |  1000 g |
+| Zucchini                            |       0,5 Stk. |  1 Stk. | 1,5 Stk. |  2 Stk. |
+| Möhren                              |         1 Stk. |  2 Stk. |   3 Stk. |  4 Stk. |
+| Kichererbsen (Dose, Abtropfgewicht) |          120 g |   240 g |    360 g |   480 g |
+| Couscous                            |          150 g |   300 g |    450 g |   600 g |
+| Gurke                               |       0,5 Stk. |  1 Stk. | 1,5 Stk. |  2 Stk. |
+| Mandelstifte                        |           25 g |    50 g |     75 g |   100 g |
+| Koriander / Petersilie              |       0,5 Bund |  1 Bund | 1,5 Bund |  2 Bund |
+| **Joghurt-Minzdip**                 |                |         |          |         |
+| Naturjoghurt (griechisch, 10%)      |          100 g |   200 g |    300 g |   400 g |
+| Minze                               |       0,5 Bund |  1 Bund | 1,5 Bund |  2 Bund |
+| Salz & Pfeffer                      | nach Geschmack |         |          |         |
 
 ---
 

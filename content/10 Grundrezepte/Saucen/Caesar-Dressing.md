@@ -35,19 +35,19 @@ Hausgemachtes Caesar-Dressing mit weich gekochten Eiern statt roher — das mach
 
 ## 🧺 Zutaten
 
-| Zutat | 2 Port. | 4 Port. | 6 Port. | 8 Port. |
-|-------|--------:|--------:|--------:|--------:|
-| Eier (weich gekocht) | 1 | 2 | 3 | 4 |
-| Dijon-Senf | ½ TL | 1 TL | 1½ TL | 2 TL |
-| Sardellenfilets | 1–2 | 2–3 | 4 | 5–6 |
-| Knoblauchzehe (klein) | ½ | 1 | 1½ | 2 |
-| Worcestershire-Sauce | 1 TL | 1–2 TL | 2–3 TL | 3–4 TL |
-| Tabasco | 1 Spritzer | 1 Schuss | 1–2 Schuss | 2 Schuss |
-| Zitronensaft | ¼–½ Zitrone | ½–1 Zitrone | 1–1½ | 1–2 |
-| Parmesan, fein gerieben | 45 g | 90 g | 135 g | 180 g |
-| Neutrales Öl | 90 ml | 175 ml | 260 ml | 350 ml |
-| Joghurt oder Sauerrahm | 1–2 EL | 2–3 EL | 4 EL | 5–6 EL |
-| Salz, Pfeffer | n. G. | n. G. | n. G. | n. G. |
+| Zutat                   |     2 Port. |     4 Port. |    6 Port. |  8 Port. |
+| ----------------------- | ----------: | ----------: | ---------: | -------: |
+| Eier (weich gekocht)    |           1 |           2 |          3 |        4 |
+| Dijon-Senf              |        ½ TL |        1 TL |      1½ TL |     2 TL |
+| Sardellenfilets         |         1–2 |         2–3 |          4 |      5–6 |
+| Knoblauchzehe (klein)   |           ½ |           1 |         1½ |        2 |
+| Worcestershire-Sauce    |        1 TL |      1–2 TL |     2–3 TL |   3–4 TL |
+| Tabasco                 |  1 Spritzer |    1 Schuss | 1–2 Schuss | 2 Schuss |
+| Zitronensaft            | ¼–½ Zitrone | ½–1 Zitrone |       1–1½ |      1–2 |
+| Parmesan, fein gerieben |        45 g |        90 g |      135 g |    180 g |
+| Neutrales Öl            |       90 ml |      175 ml |     260 ml |   350 ml |
+| Joghurt oder Sauerrahm  |      1–2 EL |      2–3 EL |       4 EL |   5–6 EL |
+| Salz, Pfeffer           |       n. G. |       n. G. |      n. G. |    n. G. |
 
 ---
 
