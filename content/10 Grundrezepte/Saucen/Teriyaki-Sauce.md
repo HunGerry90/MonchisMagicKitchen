@@ -22,7 +22,6 @@ nährwerte:
   fett: 2
 notizen: ""
 ---
-
 ## 📝 Beschreibung
 
 *Schnelle, vielseitige Teriyaki-Sauce auf Sojasauce-Basis mit Sesamöl, Honig und frischem Ingwer. Perfekt zum Glasieren von Fleisch, Hähnchen, Fisch oder Gemüse.*
